@@ -1,0 +1,7 @@
+.idea
+snapshot/*
+Logs/*
+*.vbox
+*.vbox-prev
+*.vdi
+*.zip
