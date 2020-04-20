@@ -1,4 +1,4 @@
-# mmbot-virtualbox-image
+# mmbot VirtualBox image
 This repository contains Virtualbox image with preinstalled and preconfigured [mmbot](https://github.com/ondra-novak/mmbot/) for crypto algo trading. 
 
 This is [VirtualBox](https://www.virtualbox.org/) image disk have preinstalled
