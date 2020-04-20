@@ -49,7 +49,8 @@ will load http://localhost:10000 mmbot ready to go.
 
 <img src="./images/mmbot-running.png" alt="virtualbox installation" style="display: block">
 
-For manual, please refer original mmbot [https://github.com/PayteR/mmbot-virtualbox-image](https://github.com/PayteR/mmbot-virtualbox-image)
+For manual, please refer original mmbot repository [https://github.com/PayteR/mmbot-virtualbox-image](https://github.com
+/PayteR/mmbot-virtualbox-image)
 
 ## 5. Update mmbot inside image
 
